@@ -1,9 +1,6 @@
 .selector-for-some-widget {
     box-sizing: content-box;
   }
-  .container{
-      font-size: 1.5rem;
-  }
 .content{
     padding-top: 4rem !important;
     
